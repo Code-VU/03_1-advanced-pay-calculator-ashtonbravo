@@ -14,7 +14,7 @@ else :
     normal_pay= 40*rate
     #print(normal_pay)
     calcuationOT = normal_pay + ot_pay
-    print ("You get overtime pay of $", calcuationOT)
+    print ("Pay:", calcuationOT)
     #print ('You get overtime pay')
     #print ()
     
